@@ -16,8 +16,10 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-4682B4?style=flat-square&logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-20B2AA?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-3CB371?style=flat-square&logo=pycharm&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/-NGINX-3CB371?style=flat-square&logo=nginx&logoColor=white">
   <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-4682B4?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC143C?style=flat-square&logo=redis&logoColor=white">
+
   </p>
  
   <p>
