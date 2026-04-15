@@ -29,8 +29,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-      <h2>Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=maplexx14&show_icons=true&theme=radical&include_all_commits=true">
   <div align="center">
      
    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maplexx14&theme=dark)
