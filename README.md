@@ -14,6 +14,7 @@
   </p>
   <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4682B4?style=flat-square&logo=python&logoColor=white">
+  <img alt="GO" src="https://img.shields.io/badge/-Golang-46a2f1?style=flat-square&logo=go&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-20B2AA?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-3CB371?style=flat-square&logo=pycharm&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/-NGINX-43853d?style=flat-square&logo=nginx&logoColor=white">
